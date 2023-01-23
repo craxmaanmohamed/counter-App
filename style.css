@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/1314536/pexels-photo-1314536.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.countaner{
+    background-color: rgba(255, 255, 255, 0.495);
+    height: 70vh;
+    width: 60vw;
+    border-radius: 14px;
+}
+
+h1{
+    padding-top: 70px;
+    font-size: 50px;
+    font-family: serif;
+    padding-bottom: 50px;
+    color: yellow;
+}
+.divcont button{
+    margin: 20px;
+    background-color: rgba(94, 183, 38, 0.783);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 6px;
+}
+#cleare{
+    width: 27vw;
+    border: none;
+    border-radius: 4px;
+    background-color: rgba(94, 183, 38, 0.783);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin: 20px;
+}
+#save{
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.783);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 30px;
+
+}
